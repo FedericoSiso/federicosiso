@@ -5,7 +5,7 @@
 
 🔭 &nbsp;As a university degree in computer programming student, specializing in Data Analytics, I am deeply immersed in cutting-edge technologies.\
 🌱 &nbsp;My recent focus has revolved around Data Analytics.\
-🛠️ &nbsp;Presently, I am spearheading the creation of an Portfolio.\
+🛠️ &nbsp;Presently, I am spearheading the creation of a Portfolio.\
 💼 &nbsp;I am readily available for consultations and freelance opportunities.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
